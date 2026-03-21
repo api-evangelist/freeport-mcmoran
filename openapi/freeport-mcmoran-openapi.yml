@@ -1,0 +1,15 @@
+openapi: 3.1.0
+info:
+  title: Freeport-McMoRan API
+  description: >-
+    Freeport-McMoRan Inc. (FCX) is the world's largest publicly traded copper
+    producer and a major producer of gold and molybdenum. The company does not
+    currently offer a publicly documented developer API.
+  version: '1.0'
+servers:
+  - url: https://www.fcx.com
+tags:
+  - name: Mining
+    description: Copper and gold mining operations.
+paths: {}
+components: {}
