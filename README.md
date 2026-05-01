@@ -1,26 +1,26 @@
 # Freeport-McMoRan (freeport-mcmoran)
-Freeport-McMoRan is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Freeport-McMoRan.
+Freeport-McMoRan Inc. (FCX) is a Fortune 500 international mining company headquartered in Phoenix, Arizona, with significant proven and probable reserves of copper, gold, and molybdenum. This repository captures the APIs, developer tools, and machine-readable API artifacts for Freeport-McMoRan.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/freeport-mcmoran/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
-- **Position:** Consuming
+- **Type:** Index
+- **Position:** Consumer
 - **Access:** 3rd-Party
 
 ## Tags:
 
- - Fortune 500
+ - Copper, Fortune 500, Gold, Mining, Molybdenum
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No public APIs have been documented yet. Freeport-McMoRan does not currently offer a publicly documented developer API. Contributions welcome.
 
 ## Common Properties
 
@@ -28,6 +28,6 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
