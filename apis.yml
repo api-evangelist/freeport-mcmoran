@@ -19,6 +19,8 @@ tags:
   - Molybdenum
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/freeport-mcmoran-inc
   - type: Website
     url: https://www.freeport-mcmoran.com
 maintainers:
