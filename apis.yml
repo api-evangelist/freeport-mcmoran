@@ -19,6 +19,8 @@ tags:
   - Molybdenum
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/freeport-mcmoran-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/freeport-mcmoran-inc
   - type: Website
