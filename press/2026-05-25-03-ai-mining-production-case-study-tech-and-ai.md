@@ -1,7 +1,9 @@
 ---
 title: AI Mining Production Case Study | Tech and AI
 url: https://www.mckinsey.com/capabilities/tech-and-ai/how-we-help-clients/rewired-in-action/freeport-mcmoran-unlocking-new-mining-production-through-ai-transformation
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Freeport-McMoRan" press release artificial intelligence'
 position: 3
 source: serpapi-google

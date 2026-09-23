@@ -1,7 +1,9 @@
 ---
 title: 'Freeport-McMoRan''s AI Strategy: Analysis of Dominance in ...'
 url: https://www.klover.ai/freeport-mcmoran-ai-strategy-analysis-of-dominance-in-mining-ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Freeport-McMoRan" press release artificial intelligence'
 position: 2
 source: serpapi-google

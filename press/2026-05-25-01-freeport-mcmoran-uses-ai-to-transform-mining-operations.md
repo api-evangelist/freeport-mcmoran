@@ -1,7 +1,9 @@
 ---
 title: Freeport-McMoRan Uses AI to Transform Mining Operations
 url: https://aimagazine.com/news/freeport-mcmoran-uses-ai-to-transform-mining-operations
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Freeport-McMoRan" press release artificial intelligence'
 position: 1
 source: serpapi-google

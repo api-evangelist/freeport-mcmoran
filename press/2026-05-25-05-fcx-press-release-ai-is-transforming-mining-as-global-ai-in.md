@@ -1,7 +1,9 @@
 ---
 title: 'FCX Press Release: AI Is Transforming Mining as Global AI In ...'
 url: https://marketchameleon.com/PressReleases/i/2223374/FCX/ai-is-transforming-mining-as-global-ai
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Freeport-McMoRan" press release artificial intelligence'
 position: 5
 source: serpapi-google

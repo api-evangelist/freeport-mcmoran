@@ -1,7 +1,9 @@
 ---
 title: Freeport Named Among Top Companies Generating ...
 url: https://www.fcx.com/freeport-features/10162025
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Freeport-McMoRan" press release artificial intelligence'
 position: 4
 source: serpapi-google
